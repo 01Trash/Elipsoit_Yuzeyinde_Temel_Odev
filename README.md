@@ -1,3 +1,3 @@
 # Elipsoit Yüzeyinde Temel Ödev
 
-Elipsoit yüzeyinde temel ödev hesapları yapılması için; **Vincenty** *birinci* ve *ikinci* temel ödev hesapları yöntemi kullanılmıştır. 
+Elipsoit yüzeyinde temel ödev hesapları için; **Vincenty** *birinci* ve *ikinci* temel ödev yöntemi kullanılmıştır. 
